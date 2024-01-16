@@ -32,7 +32,7 @@
 #define PS2_CMD 15  //P1.6 <-> orange wire
 #define PS2_SEL 34  //P2.3 <-> yellow wire (also called attention)
 #define PS2_CLK 35  //P6.7 <-> blue wire
-
+// conner was here
 // Create an instance of the playstation controller object
 PS2X ps2x;
 
